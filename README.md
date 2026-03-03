@@ -26,3 +26,4 @@ Currently, I have only worked with a few different programming languages
 ## Software
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg?short_path=9d6ba8f" title="PuTTY" alt="PuTTY" width="40" height="40"/>&nbsp;
